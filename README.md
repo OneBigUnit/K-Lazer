@@ -20,8 +20,6 @@
   </p>
 </div>
 
-<div id="content"></div>
-
 ## Introduction
 
 K-Lazer is a project aiming to provide an interface from which teachers can interact with and engage their students. The project is designed to facilitate 
