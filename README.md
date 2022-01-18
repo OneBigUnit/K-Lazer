@@ -58,6 +58,18 @@ The application is now downloaded. Now just navigate to the save location, open 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Releases
+
+Official releases of K-Lazer can be found by navigating to the [Releases](https://github.com/OneBigUnit/K-Lazer/releases) section from the home page of the repository.
+In that section is a list of all versions released, which can each be individually downloaded as per the [Usage Instructions]("#usage") above.
+  
+K-Lazer uses semantic versioning to label each official release.  
+This is where the version number is arranged into the following format: `AA: BB: CC - ...`  
+* The number at `AA` is incremented whenever a non-backwards compatible version is released, like a major overhaul of the application.
+* The number at `BB` is incremented whenever a backwards compatible, major version is released, such as a feature update.
+* The number at `CC` is incremented whenever a small patch or bug fix is made, not adding any new features to the application.
+* The characters at `...` indicate the type of version that has been released, giving an indication as to the current stage of development.
+  
+You can read more on semantic versioning [here](https://semver.org/).
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
