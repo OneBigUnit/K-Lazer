@@ -20,8 +20,6 @@
   </p>
 </div>
 
-<div id="content"></div>
-
 # K-Lazer Usage Guide
 
 ### Controls
