@@ -6,6 +6,9 @@
   <a href="https://github.com/OneBigUnit/K-Lazer">
     <img src="Images/logo.png" alt="Logo" width="500" height="271">
   </a>
+  
+  <br />
+  <br />
 
   <p align="center">
     An sleek and simple screen overlay application made to facilitate teaching and learning
