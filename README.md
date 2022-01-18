@@ -11,7 +11,7 @@
   <br />
 
   <p align="center">
-    An sleek, simple, and intuitive screen overlay application made to facilitate teaching and learning
+    A sleek, simple, and intuitive screen overlay application made to facilitate teaching and learning
     <br />
     <br />
     <a href="#content"><strong>Find Out More »</strong></a>
