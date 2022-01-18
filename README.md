@@ -42,7 +42,7 @@ Following that, read the [Usage Guide](https://github.com/OneBigUnit/K-Lazer/blo
 
 To use K-Lazer, you need to ensure your system:
 * Operates using the [Windows OS](https://www.microsoft.com/en-gb/windows?r=1)
-* Has at least 100MB of disk storage left
+* Has at least 100MB of disk storage available
 
 ### Downloading & Running
 
@@ -74,14 +74,35 @@ You can read more on semantic versioning [here](https://semver.org/).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Announcements
+
+Announcements for the project are made in the [Discussions Panel](https://github.com/OneBigUnit/K-Lazer/discussions), under the [Bug Fixes & New Releases](https://github.com/OneBigUnit/K-Lazer/discussions/1) discussion thread.  
+  
+This is where information announcements will be made, mostly about new releases, but occasionally about other aspects of the application.  
+  
+You can also subscribe to the thread to receive notifications when an announcement is made, my clicking the *'Subscribe'* button on the side-panel, which looks as follows:  
+![image](https://user-images.githubusercontent.com/54935549/150026616-25526069-a85d-4f8d-9541-3aa22606a031.png)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Bug Reporting
+
+Bug reports for K-Lazer can be made in the [Issues Panel](https://github.com/OneBigUnit/K-Lazer/issues) of the repository.  
+Here, a user may respond to your 'Issue', and it will be determined how the issue solution should be approached.  
+  
+Please do not use the [New Features & Ideas](https://github.com/OneBigUnit/K-Lazer/discussions/2) to report bugs, as this should be reserved for 'Feature Requests', as detailed in the [Feature Requests](#feature-requests) section below.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Feature Requests
+
+Feature Requests for K-Lazer can be made in the [Discussions Panel](https://github.com/OneBigUnit/K-Lazer/discussions), under the [New Features & Ideas](https://github.com/OneBigUnit/K-Lazer/discussions/2) discussion thread.  
+  
+This is where users can mention improvements to the application that they think should be made in a future release, so that other users can respond, and the feature can be considered in development.  
+  
+You can also subscribe to the thread to receive notifications when a feature request is made, my clicking the *'Subscribe'* button on the side-panel, which looks as follows:  
+![image](https://user-images.githubusercontent.com/54935549/150026616-25526069-a85d-4f8d-9541-3aa22606a031.png)  
+  
+Please do not use the [Issues Tab](https://github.com/OneBigUnit/K-Lazer/issues) to suggest new features, as this should be reserved for 'Issues' to be opened, as detailed in the [Bug Reporting](#bug-reporting) section above, and the feature request may not be seen.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,6 +114,8 @@ You can also visit the [New Features & Ideas](https://github.com/OneBigUnit/K-La
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
+
+Contact OneBigUnit via email at the address: [08klock@brightoncollege.net](mailto:08klock@brightoncollege.net)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
