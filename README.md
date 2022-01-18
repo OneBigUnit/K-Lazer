@@ -1,14 +1,31 @@
-# K-Lazer
+<div id="top"></div>
+
+
+<br/>
+<div align="center">
+  <a href="https://github.com/OneBigUnit/K-Lazer">
+    <img src="Images/logo.png" alt="Logo" width="450" height="450">
+  </a>
+
+  <p align="center">
+    An sleek and simple screen overlay application made to facilitate teaching and learning
+    <br />
+    <br />
+    <a href="#content"><strong>Find Out More »</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
+<div id="content"></div>
 
 ## Introduction
 
 K-Lazer is a project aiming to provide an interface from which teachers can interact with and engage their students. The project is designed to facilitate 
-lecturing with the use of a computer or interactive whiteboard, using a simple, sleek, and highly customizable overlay, made using the [Unity Game Engine](https://unity.com/).  
+teaching with the use of a computer or interactive whiteboard, using a simple, sleek, and highly customizable overlay, made using the [Unity Game Engine](https://unity.com/).  
 
 K-Lazer comes with many features to help teachers in their lessons, all designed to be easy to access, so that they can focus on their class. 
-These include a customizable laser pointer, annotation support, and screen shot / recording capabilties; all just a click away.  
-
-To find out how to use K-Lazer, read on...
+These include a customizable laser pointer, annotation support, and screen shot / recording capabilties; all just a click away.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
