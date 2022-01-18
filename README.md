@@ -86,6 +86,6 @@ You can also visit the [New Features & Ideas](https://github.com/OneBigUnit/K-La
 
 ## License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/OneBigUnit/K-Lazer/blob/Source/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/OneBigUnit/K-Lazer/blob/Source/LICENSE) for more information.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
