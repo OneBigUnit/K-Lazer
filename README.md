@@ -55,7 +55,7 @@ These include a customizable laser pointer, annotation support, and screen shot 
 ## Roadmap
 
 To view the project roadmap, please go to [This Project Board](https://github.com/OneBigUnit/Laser-Pointer-App/projects/2).  
-You can also visit the [New Features & Ideas]() Discussion Thread to see other unofficial features that may make it into future releases.
+You can also visit the [New Features & Ideas](https://github.com/OneBigUnit/K-Lazer/discussions/2) Discussion Thread to see other unofficial features that may make it into future releases.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
