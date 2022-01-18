@@ -14,7 +14,7 @@
     A sleek, simple, and intuitive screen overlay application made to facilitate teaching and learning
     <br />
     <br />
-    <a href="#content"><strong>Find Out More »</strong></a>
+    <a href="https://github.com/OneBigUnit/K-Lazer/blob/Source/README.md"><strong>Find Out More »</strong></a>
     <br />
     <br />
   </p>
