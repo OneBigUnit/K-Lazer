@@ -78,7 +78,7 @@ This branch contains the executable and all other necessary files to run the bui
 
 ### Development
 
-Development is the final branch of the project, and is dedicated to storing the unity source code for version yet to be released - this code will often not be functional, but is designed to show and store the experimental features that are currently being designed in the application.
+Development is the final branch of the project, and is dedicated to storing the unity source code for versions yet to be released - this code will often not be functional, but is designed to show and store the experimental features that are currently being designed in the application.
 The code in this branch may contains bugs or fatal errors, but should give insight into the progress being made in the development of K-Lazer.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
