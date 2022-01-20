@@ -48,7 +48,7 @@ To use K-Lazer, you need to ensure your system:
 
 From the repository home page, locate the [Releases](https://github.com/OneBigUnit/K-Lazer/releases) section, and pick the version you wish to install. It is recommended that the most recent version is installed, which will be found at the top of the list.  
   
-Under the release title and description, click the **'Assets'** link, and select the first link from the drop down.  
+Under the release title and description, click the **'Assets'** button, and select the first link from the drop down list.  
 This should be called *'Source code  (zip)'*, and look like this:  
 ![image](https://user-images.githubusercontent.com/54935549/149997037-fc9858e5-c651-4557-be41-7e366d9f4b91.png)  
   
