@@ -152,7 +152,7 @@ A list of resources with regard to using this project as A-Level Coursework can 
 
 ## Contact
 
-Contact OneBigUnit via email at the address: [kieran.lock@outlook.com](mailto:kieran.lock@outlook.com)
+Contact me via email at the address: [kieran.lock@outlook.com](mailto:kieran.lock@outlook.com)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
