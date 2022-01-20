@@ -105,7 +105,7 @@ Announcements for the project are made in the [Discussions Panel](https://github
   
 This is where information announcements will be made, mostly about new releases, but occasionally about other aspects of the application.  
   
-You can also subscribe to the thread to receive notifications when an announcement is made, my clicking the *'Subscribe'* button on the side-panel, which looks as follows:  
+You can also subscribe to the thread to receive notifications when an announcement is made, by clicking the *'Subscribe'* button on the side-panel, which looks as follows:  
 ![image](https://user-images.githubusercontent.com/54935549/150026616-25526069-a85d-4f8d-9541-3aa22606a031.png)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
