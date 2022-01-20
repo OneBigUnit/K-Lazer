@@ -59,7 +59,7 @@ The application is now downloaded. Now just navigate to the save location, open 
 
 ## Branches
 
-The K-Lazer GitHub repository consists of 3 branches; namely:
+The K-Lazer GitHub repository consists of 3 branches:
 * [Source](https://github.com/OneBigUnit/K-Lazer/tree/Source)
 * [Build](https://github.com/OneBigUnit/K-Lazer/tree/Build)
 * [Development](https://github.com/OneBigUnit/K-Lazer/tree/Development)  
