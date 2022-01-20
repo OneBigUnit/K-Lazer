@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/OneBigUnit/K-Lazer">
-    <img src="Images/logo.png" alt="Logo" width="450" height="450">
+    <img src="Images/logo.png" alt="Logo" width="500" height="271">
   </a>
 
   <p align="center">
