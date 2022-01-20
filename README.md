@@ -113,7 +113,7 @@ You can also subscribe to the thread to receive notifications when an announceme
 ## Bug Reporting
 
 Bug reports for K-Lazer can be made in the [Issues Panel](https://github.com/OneBigUnit/K-Lazer/issues) of the repository.  
-Here, a user may respond to your 'Issue', and it will be determined how the issue solution should be approached.  
+Here, a user may respond to your issue, and it will be determined how the issue should be approached.  
   
 Please do not use the [New Features & Ideas](https://github.com/OneBigUnit/K-Lazer/discussions/2) to report bugs, as this should be reserved for 'Feature Requests', as detailed in the [Feature Requests](#feature-requests) section below.
   
