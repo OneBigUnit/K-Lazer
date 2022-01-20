@@ -86,7 +86,7 @@ The code in this branch may contains bugs or fatal errors, but should give insig
 ## Releases
 
 Official releases of K-Lazer can be found by navigating to the [Releases](https://github.com/OneBigUnit/K-Lazer/releases) section from the home page of the repository.
-In that section is a list of all versions released, which can each be individually downloaded as per the [Usage Instructions]("#usage") above.
+In that section is a list of all versions released, which can each be individually downloaded as per the [Usage Instructions](#usage) above.
   
 K-Lazer uses semantic versioning to label each official release.  
 This is where the version number is arranged into the following format: `AA: BB: CC - ...`  
