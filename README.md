@@ -57,6 +57,32 @@ The application is now downloaded. Now just navigate to the save location, open 
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Branches
+
+The K-Lazer GitHub repository consists of 3 branches; namely:
+* [Source](https://github.com/OneBigUnit/K-Lazer/tree/Source)
+* [Build](https://github.com/OneBigUnit/K-Lazer/tree/Build)
+* [Development](https://github.com/OneBigUnit/K-Lazer/tree/Development)  
+  
+These branches are each dedicated to 3 aspects of the project, as follows...
+
+### Source
+
+Source is the main branch of the project, and is dedicated to storing the unity source code to the currently released version of the project.  
+With every new release *(See [Releases](#releases))*, this branch is updated with the corresponding source code, which can be opened in the unity editor.
+
+### Build
+
+Build is the second branch of the project, and is dedicated to storing the built version of the currently released version of the project.  
+This branch contains the executable and all other necessary files to run the build of the project, and is updated to match the latest version of the project as with the [Source Branch](https://github.com/OneBigUnit/K-Lazer/tree/Source).
+
+### Development
+
+Development is the final branch of the project, and is dedicated to storing the unity source code for version yet to be released - this code will often not be functional, but is designed to show and store the experimental features that are currently being designed in the application.
+The code in this branch may contains bugs or fatal errors, but should give insight into the progress being made in the development of K-Lazer.
+  
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Releases
 
 Official releases of K-Lazer can be found by navigating to the [Releases](https://github.com/OneBigUnit/K-Lazer/releases) section from the home page of the repository.
@@ -110,6 +136,17 @@ Please do not use the [Issues Tab](https://github.com/OneBigUnit/K-Lazer/issues)
 
 To view the project roadmap, please go to [This Project Board](https://github.com/OneBigUnit/Laser-Pointer-App/projects/2).  
 You can also visit the [New Features & Ideas](https://github.com/OneBigUnit/K-Lazer/discussions/2) Discussion Thread to see other unofficial features that may make it into future releases.
+  
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Coursework
+
+This project may be used as Computer Science A-Level Coursework, and so may be subject to limitations and specific design processes.  
+  
+A list of resources with regard to using this project as A-Level Coursework can be found below, and will be updated as required:
+* [User Stories](https://github.com/OneBigUnit/K-Lazer/projects/1)
+* [Current Release Source Code](https://github.com/OneBigUnit/K-Lazer/tree/Source)
+* [Current Release Project Build](https://github.com/OneBigUnit/K-Lazer/tree/Build)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
