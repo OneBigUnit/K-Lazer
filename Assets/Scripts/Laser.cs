@@ -1,12 +1,18 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
+using System.Collections;
 
 public class Laser : MonoBehaviour
 {
     public static bool allowedFlag = false;
 
+    [SerializeField] private GameObject clickManager;
+    [SerializeField] private GameObject transparentWindow;
+
     private bool activeFlag = false;
     private SpriteRenderer laserSprite;
+    private ClickDetection clickDetectionScript;
+    private TransparentWindow transparentWindowScript;
 
     public void ChangeAllowedFlag()
     {
@@ -14,15 +20,25 @@ public class Laser : MonoBehaviour
         allowedFlag = !allowedFlag;
     }
 
+    private IEnumerator DoLogic()
+    {
+        CoroutineWithData coroutine = new CoroutineWithData(this, clickDetectionScript.DoubleClickedAndHolding());
+        yield return coroutine.coroutine;
+        Debug.Log(coroutine.result);
+        activeFlag = (bool)coroutine.result;
+    }
+
     private void Start()
     {
         laserSprite = GetComponent<SpriteRenderer>();
+        clickDetectionScript = clickManager.GetComponent<ClickDetection>();
+        transparentWindowScript = transparentWindow.GetComponent<TransparentWindow>();
     }
 
      private void Update()
     {
         laserSprite.enabled = activeFlag && allowedFlag;
         Cursor.visible = !(activeFlag && allowedFlag);
-        activeFlag = Input.GetMouseButton(0);
+        StartCoroutine(DoLogic());
     }
 }

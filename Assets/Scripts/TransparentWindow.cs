@@ -35,14 +35,21 @@ public class TransparentWindow : MonoBehaviour
     [DllImport("user32.dll")]
     private static extern bool SetWindowPos(IntPtr hWnd, IntPtr hWndInsertAfter, int X, int Y, int cx, int cy, uint uFlags);
 
-    private void SetClickThrough(bool clickthrough)
+    public void SetClickThrough(bool clickthrough)
     {
         if (clickthrough && !Laser.allowedFlag) {
             SetWindowLong(hWnd, GWL_EXSTYLE, WS_EX_LAYERED | WS_EX_TRANSPARENT);
+            Debug.Log("Clickthrough!");
         } else
         {
             SetWindowLong(hWnd, GWL_EXSTYLE, WS_EX_LAYERED);
+            Debug.Log("Not Clickthrough!");
         }
+    }
+
+    public void SetTopmost()
+    {
+        SetWindowPos(hWnd, HWND_TOPMOST, 0, 0, 0, 0, 0);
     }
 
     private void Start()
@@ -56,7 +63,7 @@ public class TransparentWindow : MonoBehaviour
         DwmExtendFrameIntoClientArea(hWnd, ref margins);
 
         SetWindowLong(hWnd, GWL_EXSTYLE, WS_EX_LAYERED | WS_EX_TRANSPARENT);
-        SetWindowPos(hWnd, HWND_TOPMOST, 0, 0, 0, 0, 0);
+        SetTopmost();
 #endif
     }
 
