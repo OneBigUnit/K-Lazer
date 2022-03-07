@@ -39,11 +39,9 @@ public class TransparentWindow : MonoBehaviour
     {
         if (clickthrough && !Laser.allowedFlag) {
             SetWindowLong(hWnd, GWL_EXSTYLE, WS_EX_LAYERED | WS_EX_TRANSPARENT);
-            Debug.Log("Clickthrough!");
         } else
         {
             SetWindowLong(hWnd, GWL_EXSTYLE, WS_EX_LAYERED);
-            Debug.Log("Not Clickthrough!");
         }
     }
 
