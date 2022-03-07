@@ -39,6 +39,10 @@ public class Laser : MonoBehaviour
     {
         laserSprite.enabled = activeFlag && allowedFlag;
         Cursor.visible = !(activeFlag && allowedFlag);
+<<<<<<< HEAD
+        activeFlag = InputManagement.buttons["LeftMouseButton"].IsDoubleClickedAndHeld(.3f);
+=======
         StartCoroutine(DoLogic());
+>>>>>>> b75ef5e392afd7ecd0e9ca4baae1a104bae58621
     }
 }
